@@ -85,4 +85,4 @@ selected_cars.shape
 
 Thank you for reading! 
 
-To see the main python program for Programming Assignment 3, click this [link](https://github.com/imwithiu/SAMPANG-2ECE-C/blob/main/%5BSAMPANG%5D2ECE-C.ipynb) and download. Open on Jupyter Notebook, then run all cells.
+To see the main python program for Programming Assignment 3, click this [link](https://github.com/imwithiu/ECE2112-SAMPANG-PA3/blob/main/PA3_SAMPANG.ipynb) and download. Open on Jupyter Notebook, then run all cells.
