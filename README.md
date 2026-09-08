@@ -40,7 +40,7 @@ car_shape
 list(cars) #show the complete list of columns
 cars.loc[:,'Model'] #model of cars
 
-cars_6_to_10 = cars.iloc[6:11] #positional slicing
+cars_6_to_10 = cars.iloc[5:11] #positional slicing
 cars_6_to_10
 
 #Column selection using labels
