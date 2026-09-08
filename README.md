@@ -25,7 +25,7 @@ The objective of this assignment is to perform basic to intermediate data manipu
 #### **Methods Used:**
 - `cars.shape` - Returns a tuple `(32, 12)` representing rows and columns.
 - `list(cars)` - Retrieves column headers as a list.
-- `cars.iloc[6:11]` - Performs positional integer slicing to select rows 6 to 10 (inclusive of index 6 up to 10).
+- `cars.iloc[5:10]` - Performs positional integer slicing to select rows 6 to 10 (index 5 up to but not including 9).
 - `.loc[:, ['Model', 'mpg', 'cyl', 'hp', 'gear']]` - Performs label-based column selection.
 
 - 
